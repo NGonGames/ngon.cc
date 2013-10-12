@@ -1,8 +1,10 @@
 $red: #b62026;
-$desktop-size: 1300px;
+$desktop-size: 769px;
 $mobile-size: $desktop-size - 1;
 
 .header {
+
+	width: 100%;
 
 	@media (min-width: $desktop-size) {
 		text-align: center;
