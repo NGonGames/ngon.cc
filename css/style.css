@@ -1,0 +1,25 @@
+.logo {
+	display: inline-block;
+	text-align: center;
+	height: 40px;
+	width: 100%;
+}
+
+.banner {
+	display: inline-block;
+	width: 100%;
+	height: 30px;
+	background-color: #f00;
+}
+
+.navigation {
+	background-color: #000;
+}
+
+.logo > span.left {
+	margin-right: 30px;
+}
+
+.logo > span.right {
+	margin-left: 30px;
+}
