@@ -1535,13 +1535,13 @@ a .icon-flip-vertical:before {
   content: "\f18b";
 }
 
-@media (min-width: 960px) {
+@media (min-width: 1300px) {
   /* line 5, ../../sass/master.scss */
   .header {
     text-align: center;
   }
 }
-@media (max-width: 959px) {
+@media (max-width: 1299px) {
   /* line 5, ../../sass/master.scss */
   .header {
     text-align: left;
@@ -1556,13 +1556,13 @@ a .icon-flip-vertical:before {
   background-image: url("../img/logo_chevron.png");
   background-repeat: no-repeat;
 }
-@media (min-width: 960px) {
+@media (min-width: 1300px) {
   /* line 14, ../../sass/master.scss */
   .header .logo {
     margin: 5px auto -60px auto;
   }
 }
-@media (max-width: 959px) {
+@media (max-width: 1299px) {
   /* line 14, ../../sass/master.scss */
   .header .logo {
     margin: 5px 80px -60px;
@@ -1609,7 +1609,7 @@ a .icon-flip-vertical:before {
 .header .navigation ul {
   list-style: none;
 }
-@media (max-width: 959px) {
+@media (max-width: 1299px) {
   /* line 65, ../../sass/master.scss */
   .header .navigation ul {
     padding-left: 150px;
@@ -1621,13 +1621,13 @@ a .icon-flip-vertical:before {
   width: 70px;
   display: inline-block;
 }
-@media (min-width: 960px) {
+@media (min-width: 1300px) {
   /* line 72, ../../sass/master.scss */
   .header .navigation li {
     margin: 5px 5%;
   }
 }
-@media (max-width: 959px) {
+@media (max-width: 1299px) {
   /* line 72, ../../sass/master.scss */
   .header .navigation li {
     margin: 5px;
